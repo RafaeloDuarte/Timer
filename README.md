@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Timer React 
+
+Original code on https://dev.to/emmaadesile/build-a-timer-using-react-hooks-3he2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
